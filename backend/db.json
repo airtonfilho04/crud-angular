@@ -6,19 +6,9 @@
       "price": 5.89
     },
     {
-      "id": 2,
-      "name": "Notebook Mac Pro",
-      "price": 12000.89
-    },
-    {
       "id": 3,
       "name": "Samsumg S20+",
-      "price": 5000.89
-    },
-    {
-      "name": "Produto de Teste",
-      "price": 125.98,
-      "id": 4
+      "price": "5000.90"
     },
     {
       "name": "Produto de Teste",
@@ -34,6 +24,21 @@
       "name": "Bolo",
       "price": "2.80",
       "id": 7
+    },
+    {
+      "name": "Airton",
+      "price": "20.99",
+      "id": 8
+    },
+    {
+      "name": "Airton",
+      "price": "20.99",
+      "id": 9
+    },
+    {
+      "name": "Airton",
+      "price": "20.99",
+      "id": 10
     }
   ]
 }
